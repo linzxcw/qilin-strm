@@ -265,7 +265,7 @@ A: 数据存储在 `data/` 目录中，包括配置、任务、日志等文件�
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=linzxcw/qilin-strm&type=Date)](https://star-history.com/#linzxcw/qilin-strm&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=linzxcw/qilin-strm&type=Date)](https://star-history.com/linzxcw/qilin-strm&Date)
 
 ---
 
