@@ -73,7 +73,7 @@ Qilin STRM 是一个专为 OpenList STRM 驱动设计的高效 WebDAV 文件管�
 
 ### 方式一：Docker 部署（推荐）
 
-#### 使用 Docker Compose
+#### 使用 Docker Compose 
 
 现阶段为内测版，进群获取docker compse文件
 - 麒麟软件交流二群(qq):698788293
